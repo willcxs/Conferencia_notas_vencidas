@@ -1,0 +1,6 @@
+pandas
+pywin32
+psutil
+python-dateutil
+pyautogui
+pyodbc
